@@ -7,4 +7,5 @@ The main content is:
 - Assignment 1: GDB and Valgrind
 - Assignment 2: OpenMP
 - Assignment 3: Thread
+- Assignment 4: OpenCL
 - Assignment 5: MPI
